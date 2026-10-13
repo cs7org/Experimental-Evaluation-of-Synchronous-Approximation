@@ -1,0 +1,9 @@
+diffrax
+jax[cpu]
+mpmath
+matplotlib
+numpy
+Pillow
+python-dateutil
+scipy
+typing_extensions
